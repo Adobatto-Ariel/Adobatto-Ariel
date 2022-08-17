@@ -1,5 +1,15 @@
 ### Hola! Yo soy Ari Adobatto 👋
 
+<div>
+  <ul type="none">
+     <li>💻📱 Desarrollador FrontEnd</li>
+     <li>🌱 Estudiando English y programación BackEnd 🤓</li>
+     <li>😄 Pronombres: Ari / Coster</li>
+  </ul>
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/Adobatto-Ariel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adobatto-Ariel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -32,9 +42,5 @@
  ![Snake animation](https://github.com/Adobatto-Ariel/Adobatto-Ariel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-- 💻📱 Actualmente trabajo como FrontEnd
-- 🌱 Estudiando English y progración BackEnd 🤓
-- 😄 Pronombres: Ari / Coster
 
-- 📸 [Instagram](https://www.instagram.com/ariadobatto/) 
-- 💼 [Linkedin](https://www.linkedin.com/in/gustavo-ariel-adobatto-4561b1216/)
+
