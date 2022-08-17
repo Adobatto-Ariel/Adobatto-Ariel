@@ -4,6 +4,7 @@
   <ul type="none">
      <li>💻📱 Desarrollador FrontEnd</li>
      <li>🌱 Estudiando English y programación BackEnd 🤓</li>
+     <li>Tutor en Desarrollo Web ~ CoderHouse</li>
      <li>😄 Pronombres: Ari / Coster</li>
   </ul>
 </div>
