@@ -2,9 +2,11 @@
 
 <div>
   <ul type="none">
-     <li>💻📱 Desarrollador FrontEnd</li>
+     <li>💻📱 Desarrollador FrontEnd React</li>
      <li>🙌 Tutor en Desarrollo Web ~ CoderHouse</li>
-     <li>🌱 Estudiante de inglés y programación BackEnd</li>
+     <li>🌱 Estudiante de inglés</li>
+     <li>🌱 Estudiante de Programación BackEnd</li>
+     <li>🌱 Estudiante de Marketing Digital</li>
      <li>😄 Pronombres: Ari / Coster</li>
   </ul>
 </div>
