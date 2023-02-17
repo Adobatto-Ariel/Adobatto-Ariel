@@ -1,4 +1,4 @@
-### Hola! Yo soy Ari Adobatto 👋
+### Hola! Soy Ariel Adobatto 👋
 
 <div>
   <ul type="none">
