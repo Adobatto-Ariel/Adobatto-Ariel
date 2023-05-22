@@ -4,6 +4,7 @@
   <ul type="none">
      <li>💻📱 Desarrollador FrontEnd React</li>
      <li>🙌 Tutor en Desarrollo Web ~ CoderHouse</li>
+    <li>🙌 Tutor en Diplomatura FRONTEND ~ UNTreF</li>
      <li>🌱 Estudiante de inglés</li>
      <li>🌱 Estudiante de Programación BackEnd</li>
      <li>🌱 Estudiante de Marketing Digital</li>
